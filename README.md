@@ -9,4 +9,4 @@ The VNA Automation folder shows how to automate a VNA using VEEsoftware.
 
 The TurnTable Code folder describes how to operate the Dynamixel Motor for use with a turntable.
 
-Also included in the main folder are proposals, reports, and the Instruction_Manual.pdf document, which serves as a master document describing how to use each of the features of our measurement system.
+Also included in the main folder are proposals, reports, and the Instruction_Manual.pdf document, which serves as a master document describing how to use each of the features of our measurement system. Initial_Project_Proposal.pdf was te proposal we had started with on this project, but after the covid-19 pandemic, we renegotiated our deliverables and agreed upon the proposal outlined in Amended_Project_Proposal.pdf.
