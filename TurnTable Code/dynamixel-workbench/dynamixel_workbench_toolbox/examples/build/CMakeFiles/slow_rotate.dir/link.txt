@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/slow_rotate.dir/src/slow_rotate.cpp.o  -o slow_rotate  -L/usr/local/lib -Wl,-rpath,/usr/local/lib libdynamixel_workbench.a -ldxl_sbc_cpp 
